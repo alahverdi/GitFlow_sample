@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">GitFlowPrinciples</string>
-    <string name="register_enter_phoneNumber">please enter your phone number</string>
-    <string name="hint_phoneNumber">09...</string>
+    <string name="register_enter_mobileNumber">please enter your mobile number</string>
+    <string name="hint_mobileNumber">09...</string>
 </resources>
